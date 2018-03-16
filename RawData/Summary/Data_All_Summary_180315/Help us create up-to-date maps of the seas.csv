@@ -1,0 +1,188 @@
+Help us create up-to-date maps of the seas!
+
+Q1. Do you give your consent to participate in the following study?
+Answer Choices,Response Percent,Responses
+Yes,98.94%,187
+No,1.06%,2
+,Answered,189
+,Skipped,1
+
+
+"Q2. Where is your local port (City, State)?"
+Answered,148
+Skipped,42
+
+
+"Q3. When you go out on your boat, about how long do you typically go out for?"
+Answer Choices,Response Percent,Responses
+A few hours,35.33%,53
+An entire day,27.33%,41
+Overnight trips,19.33%,29
+All of the above,0.0%,0
+Other (please specify),18.0%,27
+,Answered,150
+,Skipped,40
+
+
+Q4. Do you use your boat year round?
+Answer Choices,Response Percent,Responses
+Yes,37.33%,56
+No,62.67%,94
+"If No, specify months in use:",,82.0
+,Answered,150
+,Skipped,40
+
+
+Q5. Do you have depth sounding equipment or a fish finder?
+Answer Choices,Response Percent,Responses
+Yes,82.78%,125
+No,17.22%,26
+"If so, what model?",,96.0
+,Answered,151
+,Skipped,39
+
+
+Q6. Do you have a GPS on your vessel?
+Answer Choices,Response Percent,Responses
+Yes,85.23%,127
+No,14.77%,22
+"If so, what model?",,96.0
+,Answered,149
+,Skipped,41
+
+
+Q7. Do you have an AIS unit?
+Answer Choices,Response Percent,Responses
+Yes,29.25%,43
+No,70.75%,104
+"If Yes, which class of AIS?",,33.0
+,Answered,147
+,Skipped,43
+
+
+Q8. What do you use for navigation? (select all that apply)
+Answer Choices,Response Percent,Responses
+Phone or Tablet Application,57.72%,86
+Navigational Software on Laptop,18.79%,28
+Paper Charts,54.36%,81
+GPS Chart Plotter,65.1%,97
+None of the Above,4.7%,7
+"Please specify which app, software, or plotter you use:",,82.0
+,Answered,149
+,Skipped,41
+
+
+Q9. Do you pay for your navigation service?
+Answer Choices,Response Percent,Responses
+Yes,28.0%,42
+No,72.0%,108
+How much?,,37.0
+,Answered,150
+,Skipped,40
+
+
+"Q10. If you have a smartphone or tablet, do you always have it on the boat with you?"
+Answer Choices,Response Percent,Responses
+Yes,93.33%,126
+No,5.19%,7
+I don't have a smartphone/tablet,1.48%,2
+,Answered,135
+,Skipped,55
+
+
+Q11. Would you be willing to share location information from your phone/tablet or other navigation system?
+Answer Choices,Response Percent,Responses
+Yes,91.85%,124
+No,8.15%,11
+,Answered,135
+,Skipped,55
+
+
+Q12. What would you prefer?
+Answer Choices,Response Percent,Responses
+To actively participate with data collection (to view the seafloor data being acquired on your phone/tablet or other unit),21.71%,28
+For the data collection to occur in the backgroud,15.5%,20
+"Or, an option to switch between background collection and active participation",62.79%,81
+,Answered,129
+,Skipped,61
+
+
+Q13. What method of data delivery would you be most likely to use?
+Answer Choices,Response Percent,Responses
+Mail in thumb drive,3.05%,4
+Automatic upload from smartphone or other unit,38.93%,51
+Manual upload from smartphone or other unit,58.02%,76
+,Answered,131
+,Skipped,59
+
+
+Q14. Would you be willing to slightly detour to collect data if a site of interest showed up along your route?
+Answer Choices,Response Percent,Responses
+Yes,45.45%,60
+No,5.3%,7
+It would depend on the situation.,49.24%,65
+,Answered,132
+,Skipped,58
+
+
+"Q15. Would you be willing to go to locations where data is needed, even if they were out of your way?"
+Answer Choices,Response Percent,Responses
+Yes,63.36%,83
+No,36.64%,48
+,Answered,131
+,Skipped,59
+
+
+Q16. What is the maximum distance you would be willing to travel out of the way to collect data?
+Answer Choices,Response Percent,Responses
+1 nm,17.28%,14
+2 nm,23.46%,19
+5 nm,34.57%,28
+More,24.69%,20
+Other (please specify),,15.0
+,Answered,81
+,Skipped,109
+
+
+Q17. What sort of incentives would motivate you to collect this crowd-sourced data? (select all that apply)
+Answer Choices,Response Percent,Responses
+(1) The chance to increase the knowledge of our local ports and harbors,81.1%,103
+"(2) Updated data, such as notification of changes in bottom depths, navigational hazards or habitat information (such as gridded seafloor maps)",87.4%,111
+"(3) A streamlined app that incorporates navigation, tidal data, as well as current navigational hazards",71.65%,91
+(4) A social network of mariners working together for science and safety of navigation,46.46%,59
+"(5) The ability to gain and increase reputation: e.g. the better data you collect, the higher reputation score you receive",11.02%,14
+"(6) The chance to become ""Citizen Hydrographer of the Month"" complete with a letter of recognition",7.87%,10
+"(7) A game-like environment for data-collection, such as collecting ""virtual loot"" or discovering virtual lands.",10.24%,13
+(8) Small monetary rewards for certain tasks,22.05%,28
+Other (please specify),,19.0
+,Answered,127
+,Skipped,63
+
+
+"Q18. Of these listed, which incentive would most interest you? (Insert Number)"
+Answered,107
+Skipped,83
+
+
+"Q19. Would you be willing to pay a small fee, if in exchange you received new hardware, local seafloor data, or the incentive of your choice?"
+Answer Choices,Response Percent,Responses
+Yes,76.56%,98
+No,23.44%,30
+,Answered,128
+,Skipped,62
+
+
+"Q20. Of these, for which would you most likely pay a small fee?"
+Answer Choices,Response Percent,Responses
+New hardware,61.46%,59
+Updated data for your local area,38.54%,37
+Incentive of your choice:,,9.0
+,Answered,96
+,Skipped,94
+
+
+"Q21. Do you have any concerns about participating in this crowd data collection? If so, please provide a description of your concerns so that we can address them."
+Answered,37
+Skipped,153
+
+
